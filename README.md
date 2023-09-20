@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingi3314&count_private=true)
 
 <!--
 **mingi3314/mingi3314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
