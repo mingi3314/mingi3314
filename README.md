@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingi3314&count_private=true)
+![year_in_code_2023](https://github.com/mingi3314/mingi3314/assets/68267535/0b5aa80f-20dc-4a20-999f-78b439fb8d66)
 
 <!--
 **mingi3314/mingi3314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
